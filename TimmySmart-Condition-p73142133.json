@@ -1,0 +1,72 @@
+{
+  "resourceType": "Condition",
+  "id": "p73142133",
+  "clinicalStatus": {
+    "coding": [
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/condition-clinical",
+        "code": "resolved",
+        "display": "Resolved",
+        "userSelected": false
+      }
+    ],
+    "text": "Resolved"
+  },
+  "verificationStatus": {
+    "coding": [
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/condition-ver-status",
+        "code": "confirmed",
+        "display": "Confirmed",
+        "userSelected": false
+      }
+    ],
+    "text": "Confirmed"
+  },
+  "category": [
+    {
+      "coding": [
+        {
+          "system": "http://terminology.hl7.org/CodeSystem/condition-category",
+          "code": "problem-list-item",
+          "display": "Problem List Item"
+        }
+      ],
+      "text": "Problem List Item"
+    },
+    {
+      "coding": [
+        {
+          "system": "http://snomed.info/sct",
+          "code": "74188005",
+          "display": "Medical (qualifier value)",
+          "userSelected": false
+        }
+      ],
+      "text": "Medical"
+    }
+  ],
+  "code": {
+    "coding": [
+      {
+        "system": "http://snomed.info/sct",
+        "code": "53933002",
+        "display": "Injury of facial nerve (disorder)",
+        "userSelected": false
+      },
+      {
+        "system": "http://e-imo.com/products/problem-it",
+        "code": "1018654",
+        "display": "Laceration of facial nerve",
+        "userSelected": false
+      }
+    ],
+    "text": "Laceration of facial nerve"
+  },
+  "subject": {
+    "reference": "Patient/12724069",
+    "display": "SMART, TIMMY"
+  },
+  "abatementDateTime": "2021-02-22T00:00:00.000Z",
+  "recordedDate": "2021-02-12T12:55:29.000Z"
+}

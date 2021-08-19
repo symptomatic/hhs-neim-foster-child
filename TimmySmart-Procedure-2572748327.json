@@ -1,0 +1,36 @@
+{
+  "resourceType": "Procedure",
+  "id": "2572748327",
+  "status": "completed",
+  "code": {
+    "coding": [
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "code": "15576",
+        "display": "Formation of direct or tubed pedicle, with or without transfer; eyelids, nose, ears, lips, or intraoral",
+        "userSelected": true
+      }
+    ],
+    "text": "Formation of direct or tubed pedicle, with or without transfer; eyelids, nose, ears, lips, or intraoral"
+  },
+  "subject": {
+    "reference": "Patient/12724069",
+    "display": "SMART, TIMMY"
+  },
+  "encounter": {
+    "reference": "Encounter/97953492"
+  },
+  "_performedDateTime": {
+    "extension": [
+      {
+        "valueCode": "unknown",
+        "url": "http://hl7.org/fhir/StructureDefinition/data-absent-reason"
+      }
+    ]
+  },
+  "recorder": {
+    "reference": "Practitioner/607928",
+    "display": "Cerner Test, Nurse Cerner"
+  },
+  "notDone": true
+}

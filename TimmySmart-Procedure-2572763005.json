@@ -1,0 +1,50 @@
+{
+  "resourceType": "Procedure",
+  "id": "2572763005",
+  "status": "completed",
+  "code": {
+    "coding": [
+      {
+        "system": "http://snomed.info/sct",
+        "code": "119954001",
+        "display": "Adenoid excision (procedure)",
+        "userSelected": true
+      }
+    ],
+    "text": "Adenoid excision (text)"
+  },
+  "subject": {
+    "reference": "Patient/12724069",
+    "display": "SMART, TIMMY"
+  },
+  "encounter": {
+    "reference": "Encounter/97953492"
+  },
+  "performedDateTime": "2020-12-15T00:00:00.000Z",
+  "recorder": {
+    "reference": "Practitioner/12732051",
+    "display": "PWHandtevy, Physician - Emergency Medicine"
+  },
+  "performer": [
+    {
+      "actor": {
+        "reference": "Practitioner/4122630",
+        "display": "Cerner Test, Physician - Women's Health Cerner"
+      }
+    }
+  ],
+  "location": {
+    "display": "Baseline East"
+  },
+  "note": [
+    {
+      "authorReference": {
+        "reference": "Practitioner/4122630",
+        "display": "Cerner Test, Physician - Women's Health Cerner"
+      },
+      "time": "2019-04-05T20:21:46.000Z",
+      "text": "Procedure comment"
+    }
+  ],
+  "notDone": true
+}

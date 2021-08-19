@@ -1,0 +1,25 @@
+{
+  "resourceType": "CarePlan",
+  "id": "fostercare",
+  "status": "active",
+  "intent": "proposal",
+  "subject": {
+    "display": "Timmy Smart",
+    "reference": "Patient/12724069"
+  },
+  "period": {
+    "start": "2021-08-06T05:00:00.000Z"
+  },
+  "title": "Basic Treatment Plan",
+  "description": "5 year plan for health and wellness.",
+  "goal": [
+    {
+      "display": "Food Security",
+      "reference": "Goal/foodsecurity"
+    },
+    {
+      "display": "Housing Security",
+      "reference": "Goal/housingsecurity"
+    }
+  ]
+}
