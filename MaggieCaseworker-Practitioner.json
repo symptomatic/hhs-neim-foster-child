@@ -1,6 +1,6 @@
 {
   "resourceType": "Practitioner",
-  "id": "practitioner-maggie-caseworker",
+  "id": "maggie-caseworker",
   "active": true,
   "name": [{
     "use": "official",

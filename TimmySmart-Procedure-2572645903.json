@@ -32,5 +32,6 @@
     "reference": "Practitioner/12743411",
     "display": "PWAffirmHealth, MDCardio"
   },
-  "notDone": true
+  "notDone": true,
+  "performedDateTime": "2012-06-20"
 }

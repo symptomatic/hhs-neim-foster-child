@@ -1,6 +1,6 @@
 {
-  "resourceType": "Patient",
-  "id": "relatedperson-jane-caring",
+  "resourceType": "RelatedPerson",
+  "id": "jane-caring",
   "active": true,
   "name": [{
     "use": "official",

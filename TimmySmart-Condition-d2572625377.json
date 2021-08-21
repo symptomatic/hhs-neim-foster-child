@@ -54,7 +54,7 @@
         "userSelected": false
       }
     ],
-    "text": "CMT7"
+    "text": "Hereditary motor and sensory neuropathy"
   },
   "subject": {
     "reference": "Patient/12724069",
@@ -63,6 +63,6 @@
   "encounter": {
     "reference": "Encounter/97955046"
   },
-  "onsetDateTime": "2020-10-26T14:45:56.000Z",
-  "recordedDate": "2020-10-26T14:45:56.000Z"
+  "onsetDateTime": "2015-09-01T14:45:56.000Z",
+  "recordedDate": "2015-09-01T14:45:56.000Z"
 }

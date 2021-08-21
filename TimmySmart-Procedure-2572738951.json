@@ -13,20 +13,13 @@
     ],
     "text": "Advance Care Planning; first 30 minutes"
   },
+  "performedDateTime": "2021-03-15",
   "subject": {
     "reference": "Patient/12724069",
     "display": "SMART, TIMMY"
   },
   "encounter": {
     "reference": "Encounter/97953492"
-  },
-  "_performedDateTime": {
-    "extension": [
-      {
-        "valueCode": "unknown",
-        "url": "http://hl7.org/fhir/StructureDefinition/data-absent-reason"
-      }
-    ]
   },
   "recorder": {
     "reference": "Practitioner/12743411",

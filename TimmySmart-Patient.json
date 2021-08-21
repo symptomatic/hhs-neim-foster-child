@@ -336,7 +336,7 @@
     }
   ],
   "gender": "male",
-  "birthDate": "2012-02-19",
+  "birthDate": "2010-01-01",
   "deceasedBoolean": false,
   "address": [
     {
@@ -1210,5 +1210,5 @@
       "display": "Cerner Test, Physician - Hospitalist Cerner"
     }
   ],
-  "_birthDate": "2012-02-19T06:00:00.000Z"
+  "_birthDate": "2010-01-01T06:00:00.000Z"
 }

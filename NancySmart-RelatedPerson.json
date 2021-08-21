@@ -1,6 +1,6 @@
 {
   "resourceType": "Patient",
-  "id": "relatedperson-nancy-smart",
+  "id": "nancy-smart",
   "active": true,
   "name": [{
     "use": "official",

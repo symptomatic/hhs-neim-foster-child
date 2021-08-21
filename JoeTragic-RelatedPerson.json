@@ -1,6 +1,6 @@
 {
-  "resourceType": "Patient",
-  "id": "relatedperson-joe-tragic",
+  "resourceType": "RelatedPerson",
+  "id": "joe-tragic",
   "active": true,
   "name": [{
     "use": "official",

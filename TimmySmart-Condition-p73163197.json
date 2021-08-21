@@ -73,7 +73,7 @@
     "reference": "Patient/12724069",
     "display": "SMART, TIMMY"
   },
-  "onsetDateTime": "2021-04-01T00:00:00.000Z",
-  "abatementDateTime": "2021-05-20T00:00:00.000Z",
-  "recordedDate": "2021-05-04T21:24:46.000Z"
+  "onsetDateTime": "2016-04-01T00:00:00.000Z",
+  "abatementDateTime": "2018-05-20T00:00:00.000Z",
+  "recordedDate": "2016-05-04T21:24:46.000Z"
 }
